@@ -1,7 +1,7 @@
 {
   "name": "erp-mgroen/php-censor-crm",
   "description": "PHP Censor custom configuration",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "type": "php-censor-config",
   "keywords": [
     "php",
