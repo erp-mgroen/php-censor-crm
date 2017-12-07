@@ -2,6 +2,9 @@
 
 namespace PHPCensor\Model\Build;
 
+use PHPCensor\Builder;
+use PHPCensor\Model\Build\RemoteGitBuild;
+
 /**
  * Gitlab Build Model
  *
