@@ -1,0 +1,31 @@
+{
+  "name": "erp-mgroen/php-censor-crm",
+  "description": "PHP Censor custom configuration",
+  "minimum-stability": "stable",
+  "type": "php-censor-config",
+  "keywords": [
+    "php",
+    "php-censor",
+    "testing",
+    "open-source",
+    "ci",
+    "continuous integration"
+  ],
+  "homepage": "https://github.com/erp-mgroen/php-censor-crm",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "erp-mgroen",
+      "email": "hello@mgroen.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHPCensor": "src"
+    }
+  }
+}
